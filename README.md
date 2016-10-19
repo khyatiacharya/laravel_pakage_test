@@ -19,3 +19,5 @@ In main composer.json put
   add this Laraveltest\Testpkg\TimezonesServiceProvider::class in app/config.php
   
  make a blank folder with name "database" in laraveltest/testpkg/database
+ 
+ run command composer update on terminal
