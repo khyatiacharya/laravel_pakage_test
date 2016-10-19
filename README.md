@@ -1,3 +1,8 @@
+for making package refer link
+https://laracasts.com/discuss/channels/tips/developing-your-packages-in-laravel-5
+
+
+
 In main composer.json put 
 
 "require": 
