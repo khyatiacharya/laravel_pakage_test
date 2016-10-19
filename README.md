@@ -16,4 +16,5 @@ In main composer.json put
     "Laraveltest\\Testpkg\\": "vendor/laraveltest/testpkg/src"
   }
   
+  add this Laraveltest\Testpkg\TimezonesServiceProvider::class in app/config.php
  make a blank folder with name "database" in laraveltest/testpkg/database
