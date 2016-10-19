@@ -1,4 +1,4 @@
-main composer.json put 
+In main composer.json put 
 
 "require": 
   {
