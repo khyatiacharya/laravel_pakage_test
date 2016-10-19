@@ -11,4 +11,4 @@ In main composer.json put
     "Laraveltest\\Testpkg\\": "vendor/laraveltest/testpkg/src"
   }
   
- make a folder with name "database" in laraveltest/testpkg/database
+ make a blank folder with name "database" in laraveltest/testpkg/database
