@@ -1,6 +1,5 @@
 for making package refer link
-https://laracasts.com/discuss/channels/tips/developing-your-packages-in-laravel-5
-
+http://laraveldaily.com/how-to-create-a-laravel-5-package-in-10-easy-steps/
 
 
 In main composer.json put 
